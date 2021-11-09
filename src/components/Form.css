@@ -1,0 +1,17 @@
+.movie-form {
+  padding: 0.8rem 0.5rem;
+  border-radius: 5px;
+  background-color: skyblue;
+}
+
+.form-title,
+.form-year {
+  width: 20rem;
+  height: 1.5rem;
+  margin-right: 0.5rem;
+}
+
+.form-title:focus,
+.form-year:focus {
+  outline: none;
+}
